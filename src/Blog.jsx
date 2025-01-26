@@ -3,7 +3,7 @@ const Blog = () => {
     <div className="blog mt-[120px] w-[340px] rounded-lg bg-white">
       <img
         className="h-[288px] w-full rounded-t-lg object-cover"
-        src="public/spacejoy-YqFz7UMm8qE-unsplash.jpg"
+        src="/public/spacejoy-YqFz7UMm8qE-unsplash.jpg"
         alt="Blog Cover Photos"
       />
       <div className="flex flex-col gap-3 px-4 py-6">
