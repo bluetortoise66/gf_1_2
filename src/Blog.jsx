@@ -11,11 +11,11 @@ const Blog = () => {
           <span className="w-fit flex-none rounded-full border-1 border-green-200 bg-green-50 px-2 py-0.5 text-sm text-green-700">
             Interior
           </span>
-          <span className="text-lg font-semibold text-neutral-900">
+          <span className="line-clamp-1 text-lg font-semibold text-neutral-900">
             Top 5 Living Room Inspirations
           </span>
         </div>
-        <div className="line-clamp-1 flex flex-col gap-6">
+        <div className="flex flex-col gap-6">
           <p className="line-clamp-2 text-base font-medium text-neutral-600">
             Curated vibrants colors for your living, make it pop & calm in the
             same time.
