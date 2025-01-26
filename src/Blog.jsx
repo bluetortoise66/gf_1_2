@@ -15,8 +15,8 @@ const Blog = () => {
             Top 5 Living Room Inspirations
           </span>
         </div>
-        <div className="flex flex-col gap-6">
-          <p className="text-base font-medium text-neutral-600">
+        <div className="line-clamp-1 flex flex-col gap-6">
+          <p className="line-clamp-2 text-base font-medium text-neutral-600">
             Curated vibrants colors for your living, make it pop & calm in the
             same time.
           </p>
@@ -32,9 +32,7 @@ const Blog = () => {
                 xmlns="http://www.w3.org/2000/svg"
                 className="relative top-[1px]"
               >
-                <path
-                  d="M10.4763 6.16658L6.00633 1.69657L7.18483 0.518066L13.6667 6.99992L7.18483 13.4817L6.00633 12.3032L10.4763 7.83325H0.333328V6.16658H10.4763Z"
-                />
+                <path d="M10.4763 6.16658L6.00633 1.69657L7.18483 0.518066L13.6667 6.99992L7.18483 13.4817L6.00633 12.3032L10.4763 7.83325H0.333328V6.16658H10.4763Z" />
               </svg>
             </div>
           </button>
